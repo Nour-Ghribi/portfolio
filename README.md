@@ -1,4 +1,4 @@
-# Yasmin Sebei - AI Portfolio
+# Nour ghribi - AI Portfolio
 
 An interactive portfolio website powered by AI chat, built with Next.js and Google Gemini.
 
