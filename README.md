@@ -66,10 +66,4 @@ Edit `lib/portfolio-data.ts` to update your information:
 - Experience
 - Awards
 
-## About
 
-Computer Engineering student passionate about AI, DevOps, and responsible technology.
-
-- Email: yasminsbii09@gmail.com
-- GitHub: [github.com/Witchyass](https://github.com/Witchyass)
-- LinkedIn: [linkedin.com/in/yasmin-sebei](https://linkedin.com/in/yasmin-sebei)
